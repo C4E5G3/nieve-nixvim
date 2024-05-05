@@ -36,9 +36,11 @@
 
 </h3>
 
-## What's Neve??
 
-Neve (snow in portuguese) is a meticulously crafted custom configuration for Nixvim, designed to revolutionize your development workflow and provide an unparalleled coding experience. This configuration is the culmination of expertise and passion, aiming to provide sane defaults.
+
+## What's Nieve??
+
+Nieve (snow in Spanish) is a meticulously crafted custom configuration for Nixvim, designed to revolutionize your development workflow and provide an unparalleled coding experience. This configuration is the culmination of expertise and passion, aiming to provide sane defaults.
 
 ## Features
 
