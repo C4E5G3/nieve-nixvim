@@ -1,6 +1,6 @@
 {
   colorschemes = {
-    oxocarbon = {
+    kanagawa-nvim = {
       enable = true;
       settings = {
         styles = {
