@@ -1,6 +1,6 @@
 {
   colorschemes = {
-    rose-pine = {
+    oxocarbon = {
       enable = true;
       settings = {
         styles = {
