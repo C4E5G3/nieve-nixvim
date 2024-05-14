@@ -1,7 +1,7 @@
 {
   colorschemes = {
-    catppuccin = {
-      enable = false;
+    everforest = {
+      enable = true;
       settings = {
         background = {
           light = "macchiato";

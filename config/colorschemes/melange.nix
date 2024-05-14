@@ -1,6 +1,6 @@
 {
   colorschemes = {
-    catppuccin = {
+    melange-nvim = {
       enable = false;
       settings = {
         background = {

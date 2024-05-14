@@ -1,7 +1,7 @@
 {
   colorschemes = {
     kanagawa-nvim = {
-      enable = true;
+      enable = false;
       settings = {
         styles = {
           italic = true;
